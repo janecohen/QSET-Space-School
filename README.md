@@ -1,1 +1,1 @@
-# QSET-Space-School
+# QSET-Nano-Satellite
